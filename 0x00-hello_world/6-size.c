@@ -8,6 +8,7 @@
 
 
 int main(void)
+
 {
 	printf("Size of a char: %lu byte(s\n)", sizeof(char));
 	printf("size of int: %lu byte(s)\n", sizeof(int));
